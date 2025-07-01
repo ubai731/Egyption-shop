@@ -1,0 +1,98 @@
+header {
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 0;
+  padding: 20px 20px 20px 20px;
+  margin: 0px 20px 20px 20px;
+  background-color: rgb(110, 199, 211);
+  border-radius: 0px 50px 0px 50px;
+  box-shadow: 5px 5px black;
+}
+a {
+  display: flex;
+  width: 40%;
+  padding: 20px 20px;
+  border-radius: 0px 50px;
+  margin: 20px 20px;
+  text-decoration: none;
+  font-size: 30px;
+  margin-right: auto;
+  margin-left: auto;
+  box-shadow: 5px 5px black;
+  background-color: rgb(0, 225, 255);
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  background-color: rgb(169, 255, 152);
+  border-radius: 0px 50px 0px 50px;
+  box-shadow: 5px 5px black;
+}
+footer {
+  text-align: center;
+  color: white;
+  margin-top: 20px;
+  padding: 20px 20px 20px 20px;
+  background-color: rgb(55, 89, 128);
+  border-radius: 0px 50px 0px 50px;
+  font-size: 20px;
+  box-shadow: 5px 5px black;
+}
+a:hover {
+  font-size: 40px;
+  color: red;
+  border: 2px solid purple;
+  border-radius: 0px 50px 0px 50px;
+  background-color: teal;
+  box-shadow: 5px 5px black;
+}
+
+.My img {
+  border-radius: 50%;
+  border: 9px solid red;
+  border-right: 9px solid gold;
+  border-left: 9px solid gold;
+}
+
+.sell {
+  font-size: 30px;
+}
+
+.btn {
+  position: fixed;
+  right: 0;
+  font-size: 20px;
+  color: rgb(38, 0, 255);
+}
+
+.btni {
+  position: fixed;
+  left: 0;
+  font-size: 20px;
+  color: rgb(38, 0, 255);
+}
+
+input {
+  text-align: center;
+  margin: 20px 20px 20px 20px;
+  background-color: rgb(34, 163, 238) !important;
+}
+
+input {
+  text-align: center;
+  margin: 20px 20px 20px 20px;
+  background-color: rgb(34, 163, 238) !important;
+}
+
+
+
+img{
+    width: 70%;
+}
